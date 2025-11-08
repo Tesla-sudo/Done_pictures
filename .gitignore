@@ -11,6 +11,16 @@ node_modules
 dist
 dist-ssr
 *.local
+*.jpg
+*.mp4
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.tiff
+*.psd
+
 
 # Editor directories and files
 .vscode/*
