@@ -2,7 +2,7 @@
 // eslint-disable-next-line no-unused-vars
 import { motion } from "framer-motion";
 import { Check, Camera, Sparkles, Clock, Users, Star, Frame } from "lucide-react";
-import done5 from "../assets/done5.jpg"; // Bright hero image
+import done5 from "../assets/done5.JPEG"; // Bright hero image
 
 const services = [
   {
