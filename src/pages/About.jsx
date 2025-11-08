@@ -1,7 +1,7 @@
 // src/pages/About.jsx
 // eslint-disable-next-line no-unused-vars
 import { motion } from "framer-motion";
-import camers from "../assets/camers.JPG";
+import camers from "../assets/camers.jpg";
 import { Camera, Film, Sparkles, Heart, Mountain, Leaf, Palette, Zap } from "lucide-react";
 import { Link } from "react-router-dom";
 import done5 from "../assets/done5.jpg"; // Your brightest nature hero shot
