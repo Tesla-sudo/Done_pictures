@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import cameraImg from "../assets/hero-videography.jpeg";
-import natureImg from "../assets/done5.JPEG";
+import natureImg from "../assets/done5.jpeg";
 import { Instagram, Mail, Phone } from "lucide-react";
 
 const HERO_IMAGE = cameraImg;
