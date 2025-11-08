@@ -2,7 +2,7 @@
 // eslint-disable-next-line no-unused-vars
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import cameraImg from "../assets/hero-videography.jpeg";
+import cameraImg from "../assets/hero-videography.JPEG";
 import natureImg from "../assets/done5.jpg";
 import { Instagram, Mail, Phone } from "lucide-react";
 
