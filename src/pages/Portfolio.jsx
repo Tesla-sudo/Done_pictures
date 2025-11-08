@@ -5,7 +5,7 @@ import { useState } from "react";
 
 // Import all 17 local images
 import done1 from "../assets/done1.jpg";
-import done2 from "../assets/done2.jpg";
+import done2 from "../assets/done2.JPEG";
 import done3 from "../assets/done3.jpg";
 import done4 from "../assets/done4.jpg";
 import done5 from "../assets/done5.jpg";
